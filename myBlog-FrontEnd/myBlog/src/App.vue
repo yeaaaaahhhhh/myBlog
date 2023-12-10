@@ -5,12 +5,12 @@
     basic template
     <div class="wrapper">
       <nav>
-        <!-- <RouterLink to="/about">About</RouterLink> -->
+        <!-- <RouterLink to="/">About</RouterLink> -->
       </nav>
     </div>
   </header>
 
-  <!-- <RouterView /> -->
+  <RouterView />
 </template>
 
 <style scoped>
