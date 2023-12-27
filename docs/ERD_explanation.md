@@ -1,10 +1,10 @@
 # ERD 설명 및 변경 사항
 
-##ERD 231204
+## ERD 231204
 
 ![ERD v1](resources/ERD_231204.png)
 
-##ERD 231217
+## ERD 231217
 
 ![ERD v2](resources/ERD_231217.png)
 
@@ -13,7 +13,7 @@
     2. 댓글을 작성하는 블로그 방문자
     - 1번 사용자들만 다양한 개인정보를 저장할 필요가 있으므로 BlogerInfo라는 정보 저장 테이블을 생성하여 데이터 공간 효율을 노림
 
-##ERD 231230
+## ERD 231230
 
 ![ERD v3](resources/ERD_231227.png)
 
