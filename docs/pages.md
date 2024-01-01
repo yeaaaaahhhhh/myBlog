@@ -4,6 +4,15 @@
 
 ## 메인 페이지
 
+### 240101
+
+![main pages(흑백))](resources/main1_240101.png)
+![drawer](resources/drawer_240101.png)
+
+- login, logout, mypage 버튼을 이해하기 쉽도록 텍스트 추가
+
+### 231215
+
 ![main pages(흑백))](resources/main1.png)
 
 - 로그인한 상태일 경우, 왼쪽 하단에 로그아웃 기능과 내정보 수정 버튼을 볼 수 있다
